@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790886469977",
+    "project_id": "locatesret",
+    "storage_bucket": "locatesret.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790886469977:android:aa34c60cff314a66617c48",
+        "android_client_info": {
+          "package_name": "com.example.locatesret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790886469977-rv8hbjoieorspckjblj94lo8av6ot7l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAASCyY9qPcmmmBExD32wYWRBAgoWWG76Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790886469977-rv8hbjoieorspckjblj94lo8av6ot7l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
